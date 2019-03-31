@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ServiceSubscriber2
+Bundle-SymbolicName: ServiceSubscriber2
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: servicesubscriber2.Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Automatic-Module-Name: ServiceSubscriber2
+Import-Package: datatransferrateprovider,
+ lengthprovider,
+ massprovider,
+ org.osgi.framework;version="1.3.0",
+ temperatureprovider
+Bundle-ActivationPolicy: lazy

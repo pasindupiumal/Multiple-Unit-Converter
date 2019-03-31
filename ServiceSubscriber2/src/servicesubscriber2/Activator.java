@@ -1,4 +1,4 @@
-package servicesubscriber1;
+package servicesubscriber2;
 
 import datatransferrateprovider.DataRateService;
 import java.io.BufferedReader;

@@ -26,7 +26,7 @@ public class DataRateImpl implements DataRateService{
 
 	@Override
 	public double KbPsToGbPs(double amount) {
-		return 0;
+		return amount * 0.000001;
 	}
 
 	@Override

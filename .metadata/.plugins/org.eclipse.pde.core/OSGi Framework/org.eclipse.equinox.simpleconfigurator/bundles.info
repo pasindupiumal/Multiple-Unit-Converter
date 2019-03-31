@@ -4,6 +4,7 @@ DataTransferRateProvider,1.0.0.qualifier,file:/D:/Documents/Programming/SA%20Pro
 LengthProvider,1.0.0.qualifier,file:/D:/Documents/Programming/SA%20Project/LengthProvider/,4,true
 MassProvider,1.0.0.qualifier,file:/D:/Documents/Programming/SA%20Project/MassProvider/,4,true
 ServiceSubscriber1,1.0.0.qualifier,file:/D:/Documents/Programming/SA%20Project/ServiceSubscriber1/,4,true
+ServiceSubscriber2,1.0.0.qualifier,file:/D:/Documents/Programming/SA%20Project/ServiceSubscriber2/,4,true
 TemperatureProvider,1.0.0.qualifier,file:/D:/Documents/Programming/SA%20Project/TemperatureProvider/,4,true
 ch.qos.logback.classic,1.0.7.v20121108-1250,file:/C:/Users/pasindu/.p2/pool/plugins/ch.qos.logback.classic_1.0.7.v20121108-1250.jar,4,true
 ch.qos.logback.core,1.0.7.v20121108-1250,file:/C:/Users/pasindu/.p2/pool/plugins/ch.qos.logback.core_1.0.7.v20121108-1250.jar,4,true
